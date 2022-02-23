@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @as-ez
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... TypeScript, ReactJS, NodeJS, NestJS, GraphQL
+- 🌱 I’m currently learning ... AWS S3, Docker
+- 💞️ I’m looking to collaborate on ... blockchain
+- 📫 How to reach me ... astradaezequiel.tpi@gmail.com
 
 
 
